@@ -1,4 +1,5 @@
-# Add to delicious Chrome Extension (Delicious has been discontinued)
+# Add to delicious Chrome Extension
+## (Delicious has been discontinued)
 
 ### WARNING
 
