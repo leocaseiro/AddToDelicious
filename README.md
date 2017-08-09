@@ -9,7 +9,7 @@
 >
 > To export from delicious use: https://del.icio.us/export
 >
-> To import into Google Bookmarks from delicious use: https://www.google.com/bookmarks/deliciousimport 
+> To import into Google Bookmarks from delicious use (Upload HTML): https://www.google.com/bookmarks/deliciousimport 
 
 A simple extension to save links into Delicious.
 
